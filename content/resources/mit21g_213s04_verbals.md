@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 resourcetype: Document
 title: ESL 33C
 uid: 3e028e4a-4630-c34b-3dba-e7f964c97a0e

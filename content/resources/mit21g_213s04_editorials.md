@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3495728e-070e-0a32-0a81-4ef7674da873
 resourcetype: Document
 title: Sample Editorials Memo
 uid: 4e733926-0d9d-5c67-4842-8a0c552947af

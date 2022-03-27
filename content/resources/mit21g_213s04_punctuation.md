@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 resourcetype: Document
 title: TOEFL
 uid: dfc4b65c-d3fb-4b56-60e1-b880cb7a660b

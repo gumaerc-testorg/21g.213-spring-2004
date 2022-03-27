@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 resourcetype: Document
 title: September 3, 2003
 uid: ef834108-2437-d8a6-f103-56ed6b259618

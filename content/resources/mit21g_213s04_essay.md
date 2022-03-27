@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3495728e-070e-0a32-0a81-4ef7674da873
 resourcetype: Document
 title: A View of American Values
 uid: 3c3bcbfc-6b66-58f0-1da8-3d9863aacf91

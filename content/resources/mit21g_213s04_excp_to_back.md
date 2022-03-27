@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 resourcetype: Document
 title: MIT 21G
 uid: b7b6615a-70a1-7a84-385b-d0e3e785da4d

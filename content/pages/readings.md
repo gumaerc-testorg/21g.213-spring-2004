@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 ---
 
-Below are handouts used to complement the homework assigned from the course textbook. See the [assignments]({{< baseurl >}}/pages/assignments) section for the textbook assignments.
+Below are handouts used to complement the homework assigned from the course textbook. See the {{% resource_link 3495728e-070e-0a32-0a81-4ef7674da873 "assignments" %}} section for the textbook assignments.
 
 California Accent: [Job hirers show bias against regional accents, study suggests](http://www.unt.edu/inhouse/august42000/accent.htm)
 
@@ -15,36 +16,36 @@ California Accent: [Job hirers show bias against regional accents, study suggest
 
 [Nonrestrictive Adjective Clause in Discourse](http://grammar.about.com/od/basicsentencegrammar/a/restrnonradjc03.htm)
 
-Exceptions to Backshifting ([PDF]({{< baseurl >}}/resources/mit21g_213s04_excp_to_back))
+Exceptions to Backshifting ({{% resource_link b7b6615a-70a1-7a84-385b-d0e3e785da4d "PDF" %}})
 
-Verbals ([PDF]({{< baseurl >}}/resources/mit21g_213s04_verbals))
+Verbals ({{% resource_link 3e028e4a-4630-c34b-3dba-e7f964c97a0e "PDF" %}})
 
-Punctuation ([PDF]({{< baseurl >}}/resources/mit21g_213s04_punctuation))
+Punctuation ({{% resource_link dfc4b65c-d3fb-4b56-60e1-b880cb7a660b "PDF" %}})
 
-Parallelism ([PDF]({{< baseurl >}}/resources/mit21g_213s04_parallelism))
+Parallelism ({{% resource_link 976ea4a7-84ab-914d-f836-f4f5d3044a4a "PDF" %}})
 
-Comma Rules ([PDF]({{< baseurl >}}/resources/mit21g_213s04_comma_rules))
+Comma Rules ({{% resource_link ec4767f8-16df-cd43-a56a-ba38e90e50aa "PDF" %}})
 
-Comma Exercise ([PDF]({{< baseurl >}}/resources/mit21g_213s04_comma_excerc))
+Comma Exercise ({{% resource_link ec2cb636-ac24-629c-25ea-2b14bb018de1 "PDF" %}})
 
-Order of Cumulative Adjectives ([PDF]({{< baseurl >}}/resources/mit21g_213s04_ord_of_cumu))
+Order of Cumulative Adjectives ({{% resource_link 38018fa7-bb27-4421-2aba-95c21c6d1709 "PDF" %}})
 
-Articles and Nouns ([PDF]({{< baseurl >}}/resources/mit21g_213s04_articles))
+Articles and Nouns ({{% resource_link 91b4bdf2-8e7c-dc0e-aa1b-0bc386c92350 "PDF" %}})
 
-Article Usage with "last" and "next" ([PDF]({{< baseurl >}}/resources/mit21g_213s04_last_and_the))
+Article Usage with "last" and "next" ({{% resource_link 499a5837-9604-e93e-247c-d894a05dc085 "PDF" %}})
 
 Celce-Murcia, Marianne., Donna M. Brinton, and Janet M. Goodwin. "The Generation Gap." _Teaching Pronunciation._ Cambridge University Press, 1996, pp. 266. ISBN: 0521406943.
 
-Sentence Stress and Rhythm ([PDF]({{< baseurl >}}/resources/mit21g_213s04_sent_str_and))
+Sentence Stress and Rhythm ({{% resource_link c55a5f6f-66ec-cfb4-71c2-8e51f1ad7bd4 "PDF" %}})
 
-Thought Groups, Prominence and Intonantion. ([PDF]({{< baseurl >}}/resources/mit21g_213s04_promience))
+Thought Groups, Prominence and Intonantion. ({{% resource_link bef52b23-a1d3-7ad7-1de0-69a1e87f8efc "PDF" %}})
 
 Larsen-Freeman, Kuehn, and Haccius. "Verb Tense-Aspect as a System: Discourse Hopping vs. Discourse Freezing." Helping Students Make Appropriate English Verb Tense-Aspect Choices_._ _TESOL Journal_ 11, no. 4.
 
-Historical Present ([PDF]({{< baseurl >}}/resources/mit21g_213s04_hist_prestqu))
+Historical Present ({{% resource_link ef834108-2437-d8a6-f103-56ed6b259618 "PDF" %}})
 
-Bystander Apathy ([PDF]({{< baseurl >}}/resources/mit21g_213s04_bystander))
+Bystander Apathy ({{% resource_link f2628d41-2fb4-8ea1-f1a9-9f5efb33a590 "PDF" %}})
 
-Data Commentary ([PDF]({{< baseurl >}}/resources/mit21g_213s04_data))
+Data Commentary ({{% resource_link 029c4e6e-fe74-b008-3b96-d1cea689ba7d "PDF" %}})
 
-Discussion Gambit Index Cards ([PDF]({{< baseurl >}}/resources/mit21g_213s04_discuss))
+Discussion Gambit Index Cards ({{% resource_link 1162925f-6de8-958a-3300-22eb0948fbe3 "PDF" %}})

@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/976e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ESL 33C
 uid: 976ea4a7-84ab-914d-f836-f4f5d3044a4a
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

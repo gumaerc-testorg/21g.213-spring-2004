@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/bef5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT 21G
 uid: bef52b23-a1d3-7ad7-1de0-69a1e87f8efc
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/499a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Singular temporal noun (SgTN) and meant "most recent" or referred to a ca
 uid: 499a5837-9604-e93e-247c-d894a05dc085
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

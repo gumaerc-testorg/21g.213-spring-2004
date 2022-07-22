@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/1162
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Discussion Gambit Index Cards
 uid: 1162925f-6de8-958a-3300-22eb0948fbe3
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

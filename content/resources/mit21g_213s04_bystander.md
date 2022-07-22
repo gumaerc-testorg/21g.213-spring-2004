@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/f262
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Why are we less likely to help someone in an emergency than in a non-emer
 uid: f2628d41-2fb4-8ea1-f1a9-9f5efb33a590
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

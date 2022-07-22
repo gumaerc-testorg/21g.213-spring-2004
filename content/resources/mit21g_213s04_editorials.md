@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/4e73
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sample Editorials Memo
 uid: 4e733926-0d9d-5c67-4842-8a0c552947af
 ---
 This resource contains the information regarding high-intermediate academic communication, sample editorials memo.
-

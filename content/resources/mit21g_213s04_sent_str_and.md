@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/c55a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sentence Stress & Rhythm
 uid: c55a5f6f-66ec-cfb4-71c2-8e51f1ad7bd4
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

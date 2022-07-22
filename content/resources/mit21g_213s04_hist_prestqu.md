@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/ef83
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: September 3, 2003
 uid: ef834108-2437-d8a6-f103-56ed6b259618
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

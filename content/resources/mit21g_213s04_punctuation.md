@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/dfc4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: TOEFL
 uid: dfc4b65c-d3fb-4b56-60e1-b880cb7a660b
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

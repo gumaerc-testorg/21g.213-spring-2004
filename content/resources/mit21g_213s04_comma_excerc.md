@@ -6,6 +6,7 @@ file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/ec2c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT English Language Studies
 uid: ec2cb636-ac24-629c-25ea-2b14bb018de1
 ---
 This resource contains the information regarding high-intermediate academic communication.
-

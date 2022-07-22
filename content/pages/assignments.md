@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3495728e-070e-0a32-0a81-4ef7674da873
 ---
@@ -24,13 +28,13 @@ Write a two- to three-page, well-organized essay in response to one of the follo
 Sample Essays
 -------------
 
-1.  Sample Essay ([PDF]({{< baseurl >}}/resources/mit21g_213s04_essay))
-2.  Sample Editorials Memo ([PDF]({{< baseurl >}}/resources/mit21g_213s04_editorials))
+1.  Sample Essay ({{% resource_link 3c3bcbfc-6b66-58f0-1da8-3d9863aacf91 "PDF" %}})
+2.  Sample Editorials Memo ({{% resource_link 4e733926-0d9d-5c67-4842-8a0c552947af "PDF" %}})
 
 Homework
 --------
 
-See the [readings]({{< baseurl >}}/pages/readings) section for downloadable handouts used in the course.
+See the {{% resource_link 5c21b144-4bd4-0c9a-f31c-233f23abdcfb "readings" %}} section for downloadable handouts used in the course.
 
 EC = Azar, Betty Schrampfer. _Understanding and Using English Grammar:Chartbook-A Reference Grammar._ 3rd ed. Pearson ESL, 1998. ISBN: 013958661X.
 

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding high-intermediate academic
   communication.
-file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/f2628d412fb48ea1f1a99f5efb33a590_MIT21G_213S04_bystander.pdf
+file: /ol-ocw-studio-app/courses/21g-213-high-intermediate-academic-communication-spring-2004/f2628d412fb48ea1f1a99f5efb33a590_MIT21G_213S04_bystander.pdf
 file_size: 106700
 file_type: application/pdf
 learning_resource_types:
